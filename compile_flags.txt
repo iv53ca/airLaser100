@@ -1,0 +1,11 @@
+-IC:\Program
+-IC:\Users\User\Documents\CodeLiteProjects\CodeLiteProjects\quickFix
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++\mingw32
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include\c++\backward
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include
+-IC:\Program Files (x86)\CodeBlocks\MinGW\include
+-IC:\Program Files (x86)\CodeBlocks\MinGW\lib\gcc\mingw32\5.1.0\include-fixed
+-std=c++17
+-target
+i686-pc-windows-gnu

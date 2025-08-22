@@ -1,0 +1,10 @@
+# Visual Studio
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.aps
+*.rc
+
+# System files
+.DS_Store
+Thumbs.db
